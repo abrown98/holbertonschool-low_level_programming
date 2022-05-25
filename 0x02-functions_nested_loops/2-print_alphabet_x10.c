@@ -6,6 +6,7 @@
  */
 	
 int main (void)
+
 {
 	int y;
 
@@ -21,4 +22,5 @@ int main (void)
 		putchar('\n');
 		y++;
 	}
+return (0);
 }
