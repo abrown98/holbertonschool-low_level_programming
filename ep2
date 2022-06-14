@@ -1,0 +1,3 @@
+cd /root
+vim school
+cp school /tmp ls *
