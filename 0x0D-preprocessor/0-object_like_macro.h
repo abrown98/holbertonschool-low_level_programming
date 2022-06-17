@@ -1,1 +1,6 @@
-VimCrypt~03!QË—ÑÍ­õ†µ¹(†ø[Áuóœ"œİú’N&Í6™«À]¦	˜)¯8WÖvŠmVŞ¨œmIéB²!Œ.)Ü«*íÍ éªµâRÔQB}49ÎsàéU,2Y7y
+#ifndef OBJECT_LIKE_MACRO_H
+#define OBJECT_LIKE_MACRO_H
+
+#define SIZE 1024
+
+#endif
