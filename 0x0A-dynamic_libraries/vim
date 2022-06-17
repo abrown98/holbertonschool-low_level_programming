@@ -1,5 +1,0 @@
-#include "main.h"
-/**
-  * _isalpha - Return 1 if lowercase, 0 if not
-  * @c: User inputs value
-  *Return: 
