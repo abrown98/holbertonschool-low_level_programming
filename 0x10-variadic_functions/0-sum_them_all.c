@@ -23,4 +23,8 @@ int sum_them_all(const unsigned int n, ...)
 	va_end(nums);
 
 	return (sum);
+{ 	
+	if (n == 0)
+	return (0);
+}
 }
